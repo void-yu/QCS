@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1462262852 source:d:\my\cpp\quantum calculate simulation(ver.1)\gate.cpp
+	"Gate.h"
+	<fstream>
+	<iostream>
+	<string>
+	<map>
+	<regex>
+
+1462262070 d:\my\cpp\quantum calculate simulation(ver.1)\gate.h
+	<iostream>
+	<string>
+	<map>
+	<vector>
+
+1461161767 source:d:\my\cpp\quantum calculate simulation(ver.1)\main.cpp
+	"Gate.h"
+	<iostream>
+	<windows.h>
+
+1461174344 source:d:\my\cpp\quantum calculate simulation(ver.1)\gate.t.cpp
+	"Gate.h"
+	<iostream>
+	<windows.h>
+
+1462262588 source:d:\my\cpp\quantum calculate simulation(ver.1)\gate.te.cpp
+	"Gate.h"
+	<iostream>
+	<windows.h>
+
+1463409493 source:d:\code files\cpp\quantum calculate simulation(ver.1)\gate.cpp
+	"Gate.h"
+	<fstream>
+	<iostream>
+	<string>
+	<map>
+
+1464188211 d:\code files\cpp\quantum calculate simulation(ver.1)\gate.h
+	<string>
+	<map>
+	<vector>
+
+1462428843 source:d:\code files\cpp\quantum calculate simulation(ver.1)\gate.te.cpp
+	"Gate.h"
+	<iostream>
+	<windows.h>
+
+1463055764 source:d:\code files\cpp\quantum calculate simulation(ver.1)\gatelib.te.cpp
+	"GateLib.h"
+	<iostream>
+	<windows.h>
+
+1463409493 d:\code files\cpp\quantum calculate simulation(ver.1)\gatelib.h
+	<string>
+	<map>
+	"Gate.h"
+
+1463409493 source:d:\code files\cpp\quantum calculate simulation(ver.1)\gatelib.cpp
+	"GateLib.h"
+	<fstream>
+	<iostream>
+	<string>
+	<map>
+	<windows.h>
+
+1465372693 source:d:\code files\cpp\quantum calculate simulation(ver.1)\circuit.te.cpp
+	"Circuit.h"
+	<iostream>
+	<fstream>
+
+1463505925 d:\code files\cpp\quantum calculate simulation(ver.1)\circuit.h
+	<string>
+	<vector>
+	<list>
+	"GateLib.h"
+
+1463579732 source:d:\code files\cpp\quantum calculate simulation(ver.1)\curcuit.cpp
+	"Circuit.h"
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1463581384 source:d:\code files\cpp\quantum calculate simulation(ver.1)\qcsshell.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"Circuit.h"
+
+1463579724 source:d:\code files\cpp\quantum calculate simulation(ver.1)\autogo.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"Circuit.h"
+

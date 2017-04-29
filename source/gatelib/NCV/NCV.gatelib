@@ -1,0 +1,9 @@
+gateLibName:NCV
+gateNum:5
+libTable:
+cnot 0
+cnot_1 0
+toffoli 1
+toffoli_1 1
+toffoli_n 1
+

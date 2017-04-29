@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="1">QCOS.ico</file>
+        <file alias="2">QCOS.jpg</file>
+    </qresource>
+</RCC>

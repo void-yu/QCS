@@ -1,0 +1,15 @@
+# Function: 3_17_
+# Used Library: MCT (gates: 3, quantum costs: 14)
+# This file have been taken from RevLib (www.revlib.org).
+.version 1.0
+.numvars 5
+.variables a b c d e
+.inputs a b c d e
+.outputs a b c d e
+.constants -----
+.garbage -----
+.begin
+t1 c
+t2 c b
+t5 b c d e a 
+.end

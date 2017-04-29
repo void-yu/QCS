@@ -1,0 +1,11 @@
+gateName:t1
+gateLibName:MCT
+gateType:0
+controlNum:0
+targetNum:1
+quantumCost:1
+truthTable:
+:0->:1
+:1->:0
+:a->:b
+:b->:a

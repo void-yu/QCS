@@ -1,0 +1,11 @@
+gateName:t3
+gateLibName:MCT
+gateType:1
+controlNum:2
+targetNum:1
+ruleTable:
+N v cb1:tb0
+N t2 cb0:cb1
+N v+ cb1:tb0
+N t2 cb0:cb1
+N v cb0:tb0

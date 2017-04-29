@@ -1,0 +1,14 @@
+gateName:cnot
+gateLibName:NCV
+gateType:0
+controlNum:1
+targetNum:1
+truthTable:
+0:0->0:0
+0:1->0:1
+0:a->0:a
+0:b->0:b
+1:0->1:1
+1:1->1:0
+1:a->1:b
+1:b->1:a

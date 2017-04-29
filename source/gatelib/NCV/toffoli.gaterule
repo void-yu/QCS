@@ -1,0 +1,11 @@
+gateName:toffoli
+gateLibName:NCV
+gateType:1
+controlNum:2
+targetNum:1
+ruleTable:
+N cnot cb0:cb1,cb2
+N cv+ cb1:tb0
+N cnot cb0:cb1
+N cv cb1:tb0
+N cv cb0:tb0

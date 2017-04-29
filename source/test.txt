@@ -1,0 +1,8 @@
+CREC a
+D:\Code Files\项目_毕业设计_量子电路仿真平台ver1\main\circuitlib\1.real
+LOAGL a
+D:\Code Files\项目_毕业设计_量子电路仿真平台ver1\main\gatelib\MCT(for test)
+INSG a t1 a
+PRINT_C a
+MATCH a a
+CALCULATE_C a a
