@@ -1,2 +1,3 @@
 # QCS
- Quantum Computation Oriented-Aided Design and the Simulation Platform（谁还没个曾经呢>.&lt;）
+ Virtual Simulation Platform for Quantum Computation Oriented Design
+（谁还没个曾经呢>.&lt;）
